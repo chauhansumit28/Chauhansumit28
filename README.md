@@ -56,9 +56,9 @@ Feel free to reach out to me if you have any questions or collaboration ideas:
 <br>
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=chauhansumit28/&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chauhansumit28/&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhansumit28/&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=chauhansumit28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chauhansumit28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=chauhansumit28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/><br/>
 ![](https://komarev.com/ghpvc/?username=chauhansumit28)
 <hr/>
